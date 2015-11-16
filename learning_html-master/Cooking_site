@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cooking up a storm</title>
+</head>
+
+<body>
+
+	<h1>FOOD</h1>
+
+	<p>We <em>crave</em> it. We <em>need</em> it. We simply <strong>cannot</strong> live without it! So as we eat everyday, it's useful to know how to create great food.</p>
+
+	<p>We'll show you how to embrace, enjoy and excite your eatery habits in 3 simple steps:</p>
+
+	<ol>
+		<li> <strong>preparation</strong></li>
+		<li><strong>produce</strong>: e.g. <a href="http://www.waitrose.com">check Waitrose for your groceries</a> </li>
+		<li><strong>planning</strong>: e.g. start an online food diary with us!</li>
+	</ol>
+
+	<p>Here's a picture of an avocado:</p>
+	<img src="avocado.jpg" alt="A picture of an Avocado">
+
+
